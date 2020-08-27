@@ -18,4 +18,4 @@ You will also see any lint errors in the console.
 
 ## Example Image
 
-![Spotify_Clone_Example_Image](example.png)
+![Spotify_Clone_Example_Image](Example.png)
